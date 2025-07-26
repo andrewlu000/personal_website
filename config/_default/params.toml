@@ -1,0 +1,4 @@
+colorScheme = "cherry"
+
+homepage.layout = "profile"
+enableSearch = "true"

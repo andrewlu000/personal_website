@@ -1,0 +1,16 @@
+title = "andrew luo"
+
+[params.author]
+name = "andrew luo"
+image = "img/me.jpg"
+headline = "shitty engineer, sound-smith"
+bio = "shitty engineer, sound-smith"
+links = [
+	{ email = "andrew.luo25@gmail.com" },
+	{ linkedin = "https://www.linkedin.com/in/andluo/" },
+	{ instagram = "https://www.instagram.com/andrewlu.ooo/" },
+	{ github = "https://github.com/andrewlu000" },
+	{ faceit = "https://www.faceit.com/en/players/alu0" },
+	{ soundcloud = "https://soundcloud.com/fouroh" },
+	{ spotify = "https://spotify.com" },
+]

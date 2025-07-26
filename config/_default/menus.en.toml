@@ -1,0 +1,33 @@
+[[main]]
+	name = "about"
+	pageRef = "about"
+	weight = 10
+
+[[main]]
+	name = "writings"
+	pageRef = "topics"
+	weight = 20
+
+
+[[main]]
+	name = "projects"	
+	pageRef = "projects"
+	weight = 30
+
+[[main]]
+	name = "cv"
+	pageRef = "cv"	
+	weight = 40
+
+[[main]]
+	name = "contact"
+	pageRef = "contact"	
+	weight = 50
+
+
+[[main]]
+	identifier = "search"
+	weight = 99
+	[main.params]
+		action = "search"
+		icon = "search"

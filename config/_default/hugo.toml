@@ -2,3 +2,7 @@ baseURL = "https://andluo.com/"
 languageCode = "en"
 
 theme = "congo"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

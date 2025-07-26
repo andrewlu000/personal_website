@@ -4,13 +4,13 @@
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>http://localhost:1313/personal_website/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/about/</loc>
+            <loc>http://localhost:1313/personal_website/about/</loc>
           </url>
     
   

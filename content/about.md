@@ -7,3 +7,4 @@ showReadingTime: false
 Hey! I am a computer engineer.
 - sound design
 - CS2
+- sythesizer design

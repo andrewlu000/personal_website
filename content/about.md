@@ -1,9 +1,9 @@
 ---
 draft: false
-params:
-  author: John Smith
-title: Example
+showdate: false
+showReadingTime: false
 ---
-# About Me
 
-I am a computer engineer.
+Hey! I am a computer engineer.
+- sound design
+- CS2

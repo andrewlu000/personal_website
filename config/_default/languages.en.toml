@@ -3,8 +3,8 @@ title = "andrew luo"
 [params.author]
 name = "andrew luo"
 image = "img/me.jpg"
-headline = "shitty engineer, sound-smith"
-bio = "shitty engineer, sound-smith"
+headline = "engineer, sound-smith"
+bio = "engineer, sound-smith"
 links = [
 	{ email = "andrew.luo25@gmail.com" },
 	{ linkedin = "https://www.linkedin.com/in/andluo/" },

@@ -20,4 +20,4 @@ The ethos behind the work done at [BRLD](https://www.brldsound.com) is to produc
 
 This helps our community 3-fold, bolstering both individual creativity/learning for the developer/designer, while enabling more creators to do what they do best.
 
-We envision a world where this mindset is the meta. Check out our work done at [BRLD](https://www.brldsound.com) if this is a world you'd like to be a part of.
+We envision a world where the free audio mindset is the meta. Check out our work done at [BRLD](https://www.brldsound.com) if this is a world you'd like to be a part of.

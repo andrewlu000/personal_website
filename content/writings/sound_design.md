@@ -1,5 +1,6 @@
 ---
 title: Sound Synthesis for the Free World
+showReadingTime: false
 date: 2025-07-27
 ---
 

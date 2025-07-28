@@ -1,4 +1,5 @@
 colorScheme = "cherry"
 
 homepage.layout = "profile"
+homepage.showRecent = "true"
 enableSearch = "true"

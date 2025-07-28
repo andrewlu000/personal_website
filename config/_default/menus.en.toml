@@ -5,7 +5,7 @@
 
 [[main]]
 	name = "writings"
-	pageRef = "topics"
+	pageRef = "writings"
 	weight = 20
 
 

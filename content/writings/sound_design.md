@@ -18,6 +18,6 @@ The ethos behind the work done at [BRLD](https://www.brldsound.com) is to produc
 - Developmentally, [BRLD](https://www.brldsound.com) is dedicated to providing all the source code and designs associated with the products we release under a permissive BSD license. We believe that derivative works (even those that are closed) are a step forward for the community.
 - In terms of accessibility, we put a special focus on making our products as user-oriented as possible.
 
-This helps our community 2-fold, bolstering both individual creativity and learning for the developer.
+This helps our community 3-fold, bolstering both individual creativity/learning for the developer/designer, while enabling more creators to do what they do best.
 
 We envision a world where this mindset is dominant. Check out our work done at [BRLD](https://www.brldsound.com) if this is a world you'd like to be a part of.

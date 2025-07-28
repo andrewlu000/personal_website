@@ -13,7 +13,7 @@ showReadingTime: false
 ~~@._|@@_|||_@@|~||~~~~~~~~~~~~~
      `""") )"""`
 ```
-I am an undergraduate computer engineer @ the Georgia Institute of Technology. 
+I am an undergraduate computer engineer and researcher. 
 
 My research interests span embedded systems, computer architecture, chip design, computer vision, digital design/verification, and crypto. I am passionate about building open utilities in these fields to help facilitate more free and open society.
 

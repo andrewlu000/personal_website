@@ -10,4 +10,6 @@ draft: true
 - PowerToys Run
 	- Mac Spotlight replacement.
 - PowerToys Workspaces
+- remapping shortcuts
+	- if you don't have media keys, you can do key combinations to do media control
 

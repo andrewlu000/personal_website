@@ -8,6 +8,10 @@
 	pageRef = "writings"
 	weight = 20
 
+[[main]]
+	name = "notes"
+	pageRef = "notes"
+	weight = 25
 
 [[main]]
 	name = "projects"	

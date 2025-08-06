@@ -3,7 +3,7 @@
 ![Andrew's Music Zine]()
 A collection of writings on all my favorite music of all time, in no particular order. Divided by genre for easier organization. Music has without a doubt been the greatest source of creative inspiration to me.
 
-I count myself lucky to have been born to a generation that had easy access to the internet.
+I count myself lucky to have been born to a generation that had easy access to the internet, which has undoubtably completely shaped my musical tastes.
 
 
 ## Electronic

@@ -1,4 +1,4 @@
-# Top 100
+# Andrew's Music Zine
 A collection of all my favorite music of all time, in no particular order. Divided by genre for easier organization.
 
 

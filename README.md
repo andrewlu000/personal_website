@@ -1,6 +1,9 @@
 # Andrew's Personal Website
 This is the source for my personal website.
 
+# TODO:
+- [ ] Fix the \_index.md of the front page
+
 
 ## Running
 Get `hugo` through Homebrew

@@ -1,10 +1,14 @@
 # Andrew's Music Zine
-A collection of all my favorite music of all time, in no particular order. Divided by genre for easier organization.
+
+![Andrew's Music Zine]()
+A collection of writings on all my favorite music of all time, in no particular order. Divided by genre for easier organization. Music has without a doubt been the greatest source of creative inspiration to me.
+
+I count myself lucky to have been born to a generation that had easy access to the internet.
 
 
 ## Electronic
 ### 1. [Lorde - Tennis Court (Flume Remix)]() {{< icon "spotify" >}} (10/10)
-
+![Tennis Court Art]()
 Flume's magnus opus. Luscious synths, otherwordly orchestral backing, creative sound design and use, in addition to Johnathan Zawada's incredible visuals, combine to form visual and auditory liquid gold. Absolute masterpiece of a song and pays homage to the greatness of Lorde.
 {{< youtube 8ATu1BiOPZA >}}
 

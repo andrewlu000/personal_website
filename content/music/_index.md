@@ -30,29 +30,39 @@ _The most formative song from my childhood, informed my taste to this day. Pharm
 {{< details "Sam Gellaitry - HYENA" >}}
 {{< spotify type="track" id="2OXKunPq2fpu595M3NPdr8" height="100px" width="100%">}}
 _The Scottish phenom's greatest work. He professed himself that it was the first song that he was truly proud of. Incredible sound design, creativity, and bounce. The crowd understandably went crazy when Sammy G dropped this heater during his Boiler Room set._
+{{< youtube "6heP8X0AYtk" >}}
 {{< /details >}}
 
 {{< details "Ivy Lab - Teacup" >}}
+{{< spotify type="track" id="4jq5FWnDzm3BsXLH6aHhhA" height="100px" width="100%" >}}
 _The duo that forms Ivy Lab are two of the most forward thinking beat makers of our generation. Dark, feral, aggressive, Ivy Lab's sound is formidable. Incredibly intricate soundscape._
+{{< youtube "dspXKGDlKqM" >}}
 {{< /details >}}
 
 {{< details "Lemaitre - Splitting Colors" >}} 
+{{< spotify type="track" id="5JQzvFCGczFnaIukvmoavb" height="100px" width="100%" >}}
 _Another one of the most formative songs from my childhood. Another sound design phenom duo. Reminiscient of Justice's D.A.N.C.E with flares of Daft Punk smoothness._
+{{< youtube "cLbTj7fFU1U" >}}
 {{< /details >}}
 
 {{< details "SOPHIE - Faceshopping" >}}
+{{< spotify type="track" id="59PYsHSyznHHH9gujZvO5Y" height="100px" width="100%" >}}
 _SOPHIE is one of the greatest sound designers of our generation without a doubt. Industrial sounds broken by a luscious synth interlude. A commentary on self expression_.
+{{< youtube "es9-P1SOeHU" >}}
 {{< /details >}}
 
 {{< details "Mount Kimbie - Carbonated" >}} 
+{{< spotify type="track" id="5d3qZ4xZv0inQK292Mmnhh" height="100px" width="100%" >}}
 _A beautiful tune, minimalistic tune crafted by the legends of Mount Kimbie. The auditory manifestation of a cool, misty, quiet morning at 4 a.m. - a long night of partying and clubbing still throbbing in your veins as you stumble back home in a gleeful stupor._
+{{< youtube "GRVwtSmgKP8" >}}
 {{< /details >}}
 
 {{< /details >}}
 
 {{< details "Pop" >}}
-1. [Frank Ocean - Nights]()
+{{< details "Frank Ocean - Nights" >}}
 {{< spotify type="track" id="7eqoqGkKwgOaWNNHx90uEZ" width="100%" height="100" >}}
 Frank Ocean is truly a master at his craft.
 {{< youtube r4l9bFqgMaQ >}}
+{{< /details >}}
 {{< /details >}}

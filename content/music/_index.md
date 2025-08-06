@@ -1,4 +1,7 @@
-# Andrew's Music Zine
+---
+showRecent: false
+title: Andrew's Music Zine
+---
 
 ![Andrew's Music Zine]()
 A collection of writings on all my favorite music of all time, in no particular order. Divided by genre for easier organization. Hopefully you'll find a tune or two from this list that you will love as much I do.

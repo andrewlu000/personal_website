@@ -1,5 +1,5 @@
 # Top 100
-A collection of all my favorite music of all time, in no particular order.
+A collection of all my favorite music of all time, in no particular order. Divided by genre for easier organization.
 
 
 ## Electronic

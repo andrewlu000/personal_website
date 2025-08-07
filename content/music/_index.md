@@ -57,6 +57,26 @@ _A beautiful, minimalistic tune crafted by the legends of Mount Kimbie. The audi
 {{< youtube "GRVwtSmgKP8" >}}
 {{< /details >}}
 
+
+{{< details "Flume - Heater" >}} 
+{{< spotify type="track" id="2mzJR8lnV8NPpiLBSTWR3l" height="100px" width="100%" >}}
+_Incredible synths, intricate layering, unique drums combine to form an unforgettable track. One of the best songs from my childhood and track that makes you wonder at how it was made._
+{{< youtube "PUX-VCGAsD8" >}}
+
+
+{{< details "Louis the Child - It's Strange (ft. K. Flay)" >}} 
+{{< spotify type="track" id="2mzJR8lnV8NPpiLBSTWR3l" height="100px" width="100%" >}}
+Quintessential future bass pop song.
+{{< youtube "PUX-VCGAsD8" >}}
+{{< /details >}}
+
+
+{{< details "Porter Robinson - Language" >}} 
+{{< spotify type="track" id="2mzJR8lnV8NPpiLBSTWR3l" height="100px" width="100%" >}}
+Incredible
+{{< youtube "PUX-VCGAsD8" >}}
+{{< /details >}}
+
 {{< /details >}}
 
 {{< details "Pop" >}}
@@ -64,5 +84,12 @@ _A beautiful, minimalistic tune crafted by the legends of Mount Kimbie. The audi
 {{< spotify type="track" id="7eqoqGkKwgOaWNNHx90uEZ" width="100%" height="100" >}}
 Frank Ocean is truly a master at his craft. His reflective, poetic lyrics with luscious instrumentation make for a deep and emotional listening experience - you almost live through Frank's words, or rather your life is a reflection of the story he casts.
 {{< youtube r4l9bFqgMaQ >}}
+{{< /details >}}
+
+
+{{< details "Orion Sun - Dirty Dancer" >}}
+{{< spotify type="track" id="" width="100%" height="100" >}}
+Blunt but deep lyrics
+{{< youtube >}}
 {{< /details >}}
 {{< /details >}}

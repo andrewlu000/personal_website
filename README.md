@@ -2,7 +2,10 @@
 This is the source for my personal website.
 
 # TODO:
-- [ ] Fix the \_index.md of the front page
+- [ ] Fix the \_index.md of the front page, coloration is off
+- [ ] Finish adding all of your music to the music section
+- [ ] Add a book section
+- [ ] Finish writing brldsound.com
 
 
 ## Running

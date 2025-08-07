@@ -53,7 +53,7 @@ _SOPHIE is one of the greatest sound designers of our generation without a doubt
 
 {{< details "Mount Kimbie - Carbonated" >}} 
 {{< spotify type="track" id="5d3qZ4xZv0inQK292Mmnhh" height="100px" width="100%" >}}
-_A beautiful tune, minimalistic tune crafted by the legends of Mount Kimbie. The auditory manifestation of a cool, misty, quiet morning at 4 a.m. - a long night of partying and clubbing still throbbing in your veins as you stumble back home in a gleeful stupor._
+_A beautiful, minimalistic tune crafted by the legends of Mount Kimbie. The auditory manifestation of a cool, misty, quiet morning at 4 a.m. - a long night of partying and clubbing still throbbing in your veins as you stumble back home in a gleeful stupor._
 {{< youtube "GRVwtSmgKP8" >}}
 {{< /details >}}
 

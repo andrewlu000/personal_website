@@ -62,7 +62,7 @@ _A beautiful, minimalistic tune crafted by the legends of Mount Kimbie. The audi
 {{< details "Pop" >}}
 {{< details "Frank Ocean - Nights" >}}
 {{< spotify type="track" id="7eqoqGkKwgOaWNNHx90uEZ" width="100%" height="100" >}}
-Frank Ocean is truly a master at his craft.
+Frank Ocean is truly a master at his craft. His reflective, poetic lyrics with luscious instrumentation make for a deep and emotional listening experience - you almost live through Frank's words, or rather your life is a reflection of the story he casts.
 {{< youtube r4l9bFqgMaQ >}}
 {{< /details >}}
 {{< /details >}}

@@ -2,7 +2,7 @@
 This is the source for my personal website.
 
 # TODO:
-- [ ] Fix the \_index.md of the front page, coloration is off
+- [ ] Fix the \_index.md of the front page, coloration is off in the dark mode
 - [ ] Finish adding all of your music to the music section
 - [ ] Add a book section
 - [ ] Finish writing brldsound.com

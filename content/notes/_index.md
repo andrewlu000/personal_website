@@ -1,7 +1,9 @@
-
-
+---
+title: Notes
+date: 2025-08-11
+---
 - recently working on an Ubuntu virtual machine, trying to enable copying and pasting between the host and guest, was not playing well with Wayland
-	- Thank you Doron: https://itsfoss.community/t/switching-from-wayland-to-x11-in-ubuntu-22-04/10723
+	- Thank you Doron: [https://itsfoss.community/t/switching-from-wayland-to-x11-in-ubuntu-22-04/10723]()
 	- `sudo vim /etc/gdm3/custom.conf`
 	- Uncomment `#WaylandEnable=false`
 	- `systemctl restart gdm3`

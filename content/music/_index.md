@@ -6,7 +6,7 @@ title: Andrew's Music Zine
 ![Matriarch Top](/img/matriarch-top.png)
 A collection of writings on all my favorite music of all time, in no particular order. Divided by genre for easier organization. Hopefully you'll find a tune or two from this list that you will love as much I do.
 
-Music has without a doubt been the greatest source of inspiration for me throughout all my endeavors in life. I count myself lucky to have been born to a generation that had easy access to the internet's music, which has allowed my music tastes to expand as much as possible.
+Music has without a doubt been the greatest source of inspiration for me throughout all my endeavors in life. I count myself lucky to have been born to a generation that had easy access to the internet's music, which has allowed my music tastes to be as expansive as much as possible.
 
 {{< details "Electronic" >}}
 

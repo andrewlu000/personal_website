@@ -17,8 +17,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#FFFFFF" />
   
-  <title>Tags &middot; andrew luo</title>
-    <meta name="title" content="Tags &middot; andrew luo" />
+  <title>Notes &middot; andrew luo</title>
+    <meta name="title" content="Notes &middot; andrew luo" />
   
   
   
@@ -79,9 +79,9 @@
   
   
   
-    <link rel="canonical" href="http://localhost:1313/personal_website/tags/" />
+    <link rel="canonical" href="http://localhost:1313/personal_website/notes/" />
   
-  <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/personal_website/tags/index.xml" title="andrew luo" />
+  <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/personal_website/notes/index.xml" title="andrew luo" />
   
   
     <link rel="apple-touch-icon" sizes="180x180" href="/personal_website/apple-touch-icon.png" />
@@ -96,15 +96,23 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/personal_website/tags/">
+  <meta property="og:url" content="http://localhost:1313/personal_website/notes/">
   <meta property="og:site_name" content="andrew luo">
-  <meta property="og:title" content="Tags">
+  <meta property="og:title" content="Notes">
+  <meta property="og:description" content="recently working on an Ubuntu virtual machine, trying to enable copying and pasting between the host and guest, was not playing well with Wayland
+Thank you Doron: https://itsfoss.community/t/switching-from-wayland-to-x11-in-ubuntu-22-04/10723 sudo vim /etc/gdm3/custom.conf Uncomment #WaylandEnable=false systemctl restart gdm3 check if you are running X11 or Wayland
+loginctl, find your session loginctl show-session (#) -p Type manually installing packages on Ubuntu
+sudo dpkg -i (deb file)">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Tags">
+  <meta name="twitter:title" content="Notes">
+  <meta name="twitter:description" content="recently working on an Ubuntu virtual machine, trying to enable copying and pasting between the host and guest, was not playing well with Wayland
+Thank you Doron: https://itsfoss.community/t/switching-from-wayland-to-x11-in-ubuntu-22-04/10723 sudo vim /etc/gdm3/custom.conf Uncomment #WaylandEnable=false systemctl restart gdm3 check if you are running X11 or Wayland
+loginctl, find your session loginctl show-session (#) -p Type manually installing packages on Ubuntu
+sudo dpkg -i (deb file)">
 
   
   
@@ -329,14 +337,50 @@
     <div class="relative flex grow flex-col">
       <main id="main-content" class="grow">
         
+  
   <header>
     
-    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">Tags</h1>
+    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">Notes</h1>
   </header>
-  
-  <section class="-mx-2 flex flex-wrap overflow-hidden">
+  <section
+    class="mt-0 prose flex max-w-full flex-col dark:prose-invert lg:flex-row"
+  >
     
+    <div class="min-h-0 min-w-0 max-w-prose grow">
+      <ul>
+<li>
+<p>recently working on an Ubuntu virtual machine, trying to enable copying and pasting between the host and guest, was not playing well with Wayland</p>
+<ul>
+<li>Thank you Doron: <a href="">https://itsfoss.community/t/switching-from-wayland-to-x11-in-ubuntu-22-04/10723</a></li>
+<li><code>sudo vim /etc/gdm3/custom.conf</code></li>
+<li>Uncomment <code>#WaylandEnable=false</code></li>
+<li><code>systemctl restart gdm3</code></li>
+</ul>
+</li>
+<li>
+<p>check if you are running X11 or Wayland</p>
+<ul>
+<li><code>loginctl</code>, find your session</li>
+<li><code>loginctl show-session (#) -p Type</code></li>
+</ul>
+</li>
+<li>
+<p>manually installing packages on Ubuntu</p>
+<ul>
+<li><code>sudo dpkg -i (deb file)</code></li>
+</ul>
+</li>
+</ul>
+
+    </div>
   </section>
+  
+    <section class="prose mt-10 dark:prose-invert">
+      <p class="border-t py-8">
+        <em>There's no articles to list here yet.</em>
+      </p>
+    </section>
+  
 
       </main>
       
